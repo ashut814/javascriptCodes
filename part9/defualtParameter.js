@@ -22,3 +22,4 @@ createBooking();
 
 // skipping a defalt parameter
 createBooking("HJS32", undefined, 1000);
+
