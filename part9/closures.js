@@ -60,5 +60,4 @@ const boardPassengers = function (n, wait) {
 //   console.log("TIMER");
 // }, 3000);
 const perGroup = 1000;
-
 boardPassengers(100, 3);
